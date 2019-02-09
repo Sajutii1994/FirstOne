@@ -15,4 +15,9 @@ class H {
 	}
 	
 
+public void idc () {
+	
+	String i = "fdhjsd";
+}
+
 }
